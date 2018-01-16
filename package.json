@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-relational-queries",
+  "description": "",
+  "version": "1.0.0",
+  "main": "fetch-blog-posts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I3uckwheat/Relational-Queries-with-Mongoose-edx-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I3uckwheat/Relational-Queries-with-Mongoose-edx-tutorial/issues"
+  },
+  "homepage": "https://github.com/I3uckwheat/Relational-Queries-with-Mongoose-edx-tutorial#readme",
+  "dependencies": {
+    "mongoose": "4.13.9"
+  }
+}
